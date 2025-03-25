@@ -5,8 +5,10 @@
 
    1) Does weather influence stock prices?
    2) Do people trade more when it's hot, cold, or rainy?
+      
 What’s Inside?
+
   1)  Historical stock data (SPY + other markets)
   2)Daily weather data (temperature, rain, snow, etc.)
- Cool visualizations in Python & Power BI
- Correlation & regression analysis to see if there's a real link
+  3) Cool visualizations in Python & Power BI
+  4) Correlation & regression analysis to see if there's a real link
